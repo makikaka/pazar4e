@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 334.8 101.07">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        font-family: ProductSans-Medium, 'Product Sans Medium';
+        font-size: 90px;
+        font-weight: 500;
+      }
+
+      .cls-2 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <text class="cls-1" transform="translate(0 77.22)"><tspan class="cls-2" x="0" y="0">п</tspan><tspan x="48.6" y="0">азар</tspan><tspan class="cls-2" x="239.85" y="0">ч</tspan><tspan x="285.66" y="0">е</tspan></text>
+  </g>
+</svg>
